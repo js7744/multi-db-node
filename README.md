@@ -14,4 +14,4 @@ We can also connect multiple Mongo connection and achieve multi tenancy.
 
 ## Use case
 
-- This sample app help ypu to connect multiple DB and achieve multi tenancy.
+- This sample app help you to connect multiple DB and achieve multi tenancy.
